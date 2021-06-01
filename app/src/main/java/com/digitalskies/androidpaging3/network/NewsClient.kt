@@ -10,7 +10,7 @@ object NewsClient {
 
     const val BASE_URL="https://newsapi.org/v2/"
 
-    const val API_KEY="YOUR NEWSAPI.ORG KEY"
+    const val API_KEY="b2001f141c034d3ebf1425f0818f39d5"
 
     fun getNewsApi():NewsApi{
         val httpLoggingInterceptor=HttpLoggingInterceptor()
