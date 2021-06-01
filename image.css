@@ -1,4 +1,1 @@
-img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
-}
+img[alt=drawing] { width: 200px; height:250px }
