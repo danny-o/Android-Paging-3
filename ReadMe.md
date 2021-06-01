@@ -1,4 +1,3 @@
-<link href="image.css" rel="stylesheet"></link>
 # Android Paging 3
 
 The project involves a news app that uses [News Api](https://newsapi.org/). The app showcases the use of Android paging 3.
@@ -24,7 +23,7 @@ The project uses MVVM architecture
 Acquire your API key from newsapi.org, find RestClient.kt file inside the source code directory and replace the value of the constant "API_KEY" with your API key and you are good to go.
 
 ## ScreenShots
-![ScreenShot1](/screenShots/screenshot1.png?#screenshot "ScreenShot1")              ![ScreenShot2](/screenShots/screenshot2.png?#screenshot "ScreenShot2")   
+![ScreenShot1](/screenShots/screenshot1.png?#screenshot "ScreenShot1")  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![ScreenShot2](/screenShots/screenshot2.png?#screenshot "ScreenShot2")   
 
 
 
