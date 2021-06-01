@@ -24,7 +24,7 @@ The project uses MVVM architecture
 Acquire your API key from newsapi.org, find RestClient.kt file inside the source code directory and replace the value of the constant "API_KEY" with your API key and you are good to go.
 
 ## ScreenShots
-![Alt text](/screenShots/Screenshot_2021-06-01-15-45-15-85.png?#img "ScreenShot1")   
+![ScreenShot1](/screenShots/Screenshot_2021-06-01-15-45-15-85.png?#img "ScreenShot1")   
 
 
 
