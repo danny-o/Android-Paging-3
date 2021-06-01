@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News App</string>
+
+    <string name="results"> %1$d results</string>
+    <string name="no_results">No results</string>
+    <string name="an_error_occured">An error occured</string>
+</resources>
